@@ -1,1 +1,3 @@
-command to compile: pyinstaller --onefile C:\Users\TYPEHEREYOURUSERNAME\Downloads\key_spammer\main.py
+command to compile, then type the directory where main.py is:
+
+pyinstaller --onefile 
